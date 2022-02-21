@@ -2,7 +2,7 @@
 # Source Code: https://github.com/PhilipGriffith/AHPy/blob/master/ahpy/ahpy.py
 import itertools
 
-from ahpy import ahpy
+from AHPy import ahpy
 
 # Example from https://en.wikipedia.org/wiki/Analytic_hierarchy_process_%E2%80%93_car_example
 def m(elements, judgments):
