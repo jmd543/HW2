@@ -1,7 +1,6 @@
 # SYSEN5160 Homework #2 
 # Source Code: https://github.com/PhilipGriffith/AHPy/blob/master/ahpy/ahpy.py
 import itertools
-import pytest
 
 from ahpy import ahpy
 
