@@ -1,8 +1,8 @@
 # SYSEN5160 Homework #2 
 # Source Code: https://github.com/PhilipGriffith/AHPy/blob/master/ahpy/ahpy.py
 import itertools
-
-from ahpy import AHPy
+import pytest
+import ahpy
 
 # Example from https://en.wikipedia.org/wiki/Analytic_hierarchy_process_%E2%80%93_car_example
 def m(elements, judgments):
